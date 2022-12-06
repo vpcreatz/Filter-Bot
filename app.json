@@ -13,7 +13,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "5851234572:AAF_g5lhGNGbr9vASvEOPzEVc7Vfj78au7s"
+            "value": "5851234572:AAHkxDkI_9bzVQ9qnp54zhIGrC7i-psuZIQ"
         },
         "MONGODB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
