@@ -7,7 +7,7 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
+<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support by vp creation 😁</b>
 
 <i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
 	`,
@@ -85,7 +85,7 @@ var BUTTONS map[string][][]gotgbot.InlineKeyboardButton = map[string][][]gotgbot
 		{
 			{Text: "☂ Aʙᴏᴜᴛ ☂", CallbackData: "edit(ABOUT)"},
 			{Text: "🧭 Help 🧭", CallbackData: "edit(HELP)"},
-			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/Jisin0"},
+			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/rp4270413"},
 		},
 	},
 	"ABOUT": {
