@@ -17,7 +17,7 @@
         },
         "MONGODB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://vpcreation:<password>@atlascluster.hocwhdz.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://vpcreation:<VPCREATION>@atlascluster.hocwhdz.mongodb.net/?retryWrites=true&w=majority"
         },
         "ADMINS": {
             "description": "A List Ids of bot admins seperated by spaces.",
